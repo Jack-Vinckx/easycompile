@@ -1,8 +1,8 @@
 {
     "do_not_compile": [
-        "config"
+        "config", "commands"
     ],
-    "file_extension": ".easycompile",
+    "file_extension": ".relyhost",
     "project_types": {
         "project name": ["directory1", "directory2"]
     }
