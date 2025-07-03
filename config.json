@@ -3,7 +3,7 @@
         "config", "commands"
     ],
     "file_extension": ".relyhost",
-    "project_types": {
-        "project name": ["directory1", "directory2"]
-    }
+"project_types": {
+  "full": ["events", "managers", "utils"]
+}
 }
