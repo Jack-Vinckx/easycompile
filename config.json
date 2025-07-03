@@ -4,6 +4,6 @@
     ],
     "file_extension": ".relyhost",
 "project_types": {
-  "full": ["events", "managers", "utils"]
+  "full": ["events", "managers", "utils", "commands/context-menu"]
 }
 }
