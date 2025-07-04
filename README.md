@@ -28,3 +28,6 @@ after all that run `node yourfilename.js`
 With EasyCompile along with near any Javascript compiler will never provide full security on your applications. However, this is a great gateway to further protect your application.
 
 ---
+
+### Additions
+- Added CLI Functions, Making it work for Git Workflows
