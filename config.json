@@ -4,7 +4,7 @@
     ],
     "file_extension": ".relyhost",
 "project_types": {
-  "full": ["events", "managers", "utils", "commands/context-menu", "commands/information/stats.js"]
+  "full": ["events", "managers", "utils", "commands/context-menu"]
 },
 "specific_commands": {
    "commands": ["commands/information/stats.js"]
